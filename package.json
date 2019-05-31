@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "study node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen-sisi/node-blog.git"
+  },
+  "keywords": [
+    "18200112335git"
+  ],
+  "author": "chen-sisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chen-sisi/node-blog/issues"
+  },
+  "homepage": "https://github.com/chen-sisi/node-blog#readme"
+}
